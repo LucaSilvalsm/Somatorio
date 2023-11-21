@@ -61,7 +61,7 @@ A função somarMultiplos recebe um número do usuário, verifica se é um intei
         }
     }
     resultado = somatorio;
-    alert("O somatório dos múltiplos de 3 ou 5 inferiores é " + num + " é: " + resultado\n);
+    alert("O somatório dos múltiplos de 3 ou 5 inferiores é " + num + " é: " + resultado + "\n");
     }
     do{
     opcao = parseInt(prompt("A seguir vamos implementar uma função que receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado. \n \nA Seguir digite o numero da opção abaixo: \n \n" +
